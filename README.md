@@ -1,5 +1,5 @@
 # Bioinformatics_Coursera
-Custom code written by me for the Coursera Bioinformatics Specialization courses.
+Codes written by me for the Coursera Bioinformatics Specialization courses.
 
 There are six courses in the specialization, covering the following topics/algorithms:
 
