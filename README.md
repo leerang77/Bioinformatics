@@ -27,3 +27,5 @@ There are six courses in the specialization, covering the following topics/algor
   Part 2 - Peptide identification from Spectral Vectors </br>
   4.5. Ideal spectral vector to peptide </br>
   4.6. Real spectral vector to peptide 
+
+### 5-7 to be updated
